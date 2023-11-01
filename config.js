@@ -15,5 +15,5 @@ const CONFIG = {
     mess: `Thank you for being my heart's constant companion 😘😘`,
     messDesc: 'Your presence has turned these past three years into the most enchanting and beautiful chapter of my life.',
     btnAccept: 'Ta Ta betu <3',
-    messLink: 'https://anniversary.netlify.app'
+    messLink: 'https://anniversary-confess.netlify.app'
 }
